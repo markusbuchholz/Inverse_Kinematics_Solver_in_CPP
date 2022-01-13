@@ -1,1 +1,1 @@
-# Inverse_Kinematics_Solver_in_C-
+# Inverse_Kinematics_Solver_in_C++
